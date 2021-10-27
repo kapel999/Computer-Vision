@@ -1,2 +1,2 @@
 # Computer-Vision
-Program which locates facial landmarks in images
+Program which locates facial landmarks in images.
